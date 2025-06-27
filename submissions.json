@@ -4,5 +4,11 @@
     "project_name": "",
     "repository_url": "",
     "description": ""
+  },
+  {
+    "name": "Maanas M S",
+    "project_name": "PerpetuaPlay",
+    "repository_url": "https://github.com/elementaryrock/PerpetuaPlay",
+    "description": "A resource-efficient Discord bot that plays a looping playlist 24/7 in a voice channel."
   }
 ]
