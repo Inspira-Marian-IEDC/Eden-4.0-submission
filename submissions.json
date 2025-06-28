@@ -4,5 +4,11 @@
     "project_name": "",
     "repository_url": "",
     "description": ""
+  },
+  {
+    "name": "Maanas M S",
+    "project_name": "Music Player",
+    "repository_url": "https://github.com/elementaryrock/music-player/tree/main/music-player-ui",
+    "description": "Test"
   }
 ]
