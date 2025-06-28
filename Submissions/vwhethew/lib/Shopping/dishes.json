@@ -1,0 +1,42 @@
+[
+  {
+      "name": "Pizza",
+      "ingredients": [
+          {
+              "name": "Dough",
+              "quantity": 1,
+              "checked": false
+          },
+          {
+              "name": "Tomato Sauce",
+              "quantity": 1,
+              "checked": false
+          },
+          {
+              "name": "Cheese",
+              "quantity": 2,
+              "checked": false
+          }
+      ]
+  },
+  {
+      "name": "Burger",
+      "ingredients": [
+          {
+              "name": "Bun",
+              "quantity": 1,
+              "checked": false
+          },
+          {
+              "name": "Patty",
+              "quantity": 1,
+              "checked": false
+          },
+          {
+              "name": "Lettuce",
+              "quantity": 1,
+              "checked": false
+          }
+      ]
+  }
+]
