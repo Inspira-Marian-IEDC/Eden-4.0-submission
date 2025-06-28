@@ -10,5 +10,11 @@
     "project_name": "Music Player",
     "repository_url": "https://github.com/elementaryrock/music-player/tree/main/music-player-ui",
     "description": "Test"
+  },
+  {
+    "name": "Maanas",
+    "project_name": "Per",
+    "repository_url": "https://github.com/elementaryrock/PerpetuaPlay",
+    "description": "dcvm"
   }
 ]
