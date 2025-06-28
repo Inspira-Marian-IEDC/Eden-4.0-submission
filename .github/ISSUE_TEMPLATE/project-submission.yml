@@ -9,8 +9,8 @@ body:
     attributes:
       value: |
         # 🎉 Eden Submission
-        <img src="https://github.com/Inspira-Marian-IEDC/Eden-4.0-submission/blob/main/TITLE.png" alt="Quickcode Logo" width="250px">
-        Thank you for participating in quickcode! 🚀  
+        <img src="https://github.com/Inspira-Marian-IEDC/Eden-4.0-submission/blob/main/TITLE.png?raw=true" alt="Eden Logo" width="250px">
+        Thank you for participating in eden! 🚀  
         Fill out the title and the details below to submit your project for review.
 
   - type: input
